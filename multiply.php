@@ -6,7 +6,7 @@
   </head>
   <body>
     <form method="post">
-      <label for="num">Enter a number:</label>
+      <label for="num">Enter a number :</label>
       <input type="number" min="0" id="num" name="num">
       <button type="submit" name="multiply">Multiply</button><br><br>
     </form>
